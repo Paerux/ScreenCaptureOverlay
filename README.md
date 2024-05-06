@@ -1,0 +1,1 @@
+Simple program that allows users to record a part of their screen and move it to anywhere they want. Probably useful on games where the game doesn't let players move its UI

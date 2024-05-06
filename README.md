@@ -1,1 +1,1 @@
-Simple program that allows users to record a part of their screen and move it to anywhere they want. Probably useful on games where the game doesn't let players move its UI
+Simple program that allows users to record a part of their screen and move it to anywhere they want. Probably useful on games where the game doesn't let players move its UI. Transparency of the window can be adjusted so players can still see the game screen underneath. To close a window just right click it.
